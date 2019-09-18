@@ -1,0 +1,61 @@
+
+
+Strings
+
+Empty Strings:
+
+oneS = ""
+twoS = ""
+threeS = ""
+fourS = ""
+fiveS = ""
+
+Initialized Strings:
+
+default_word = "default"
+number_word = '1223456789012033994885889929818819'
+comma_word = 'my, word, is, my , bound'
+misspelled_word = "Octoposs"
+animal_word = "possum"
+
+
+mainWord = input("Please enter a text: ")
+
+(Easter,Egg,Tree,beer,lights,Christmas,Tree,four,miles, Holiday, party, travel, airplane, train, planes, automobiles, sausage, deer, cat, woolen)
+
+
+Functions:
+replace
+strip
+upper lower
+Capitalization
+convert to numeric value - unicode
+create subset
+append / concatenate
+split
+len
+
+
+Operators:
+in
+not in
+[]
+[:]
++
+*
+
+
+
+
+Actions/Workflow:
+print to screen
+save to file
+add to collection
+update/set in object
+validate existence
+slice string
+multiple copies
+
+
+
+

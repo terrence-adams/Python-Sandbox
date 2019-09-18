@@ -1,0 +1,22 @@
+Date : Sun, 15 Sep 2019 23:24:03 GMT
+Content-Type : application/json; charset=utf-8
+Transfer-Encoding : chunked
+Server : GitHub.com
+Status : 200 OK
+X-RateLimit-Limit : 10
+X-RateLimit-Remaining : 9
+X-RateLimit-Reset : 1568589903
+Cache-Control : no-cache
+X-GitHub-Media-Type : github.v3; format=json
+Link : <https://api.github.com/search/repositories?q=c&page=2>; rel="next", <https://api.github.com/search/repositories?q=c&page=34>; rel="last"
+Access-Control-Expose-Headers : ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Access-Control-Allow-Origin : *
+Strict-Transport-Security : max-age=31536000; includeSubdomains; preload
+X-Frame-Options : deny
+X-Content-Type-Options : nosniff
+X-XSS-Protection : 1; mode=block
+Referrer-Policy : origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy : default-src 'none'
+Content-Encoding : gzip
+Vary : Accept-Encoding
+X-GitHub-Request-Id : D0FE:4FE5:3C437C:6B9F45:5D7EC812

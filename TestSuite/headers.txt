@@ -1,0 +1,44 @@
+Date : Mon, 16 Sep 2019 03:57:21 GMT
+Content-Type : application/json; charset=utf-8
+Transfer-Encoding : chunked
+Server : GitHub.com
+Status : 200 OK
+X-RateLimit-Limit : 10
+X-RateLimit-Remaining : 9
+X-RateLimit-Reset : 1568606301
+Cache-Control : no-cache
+X-GitHub-Media-Type : github.v3; format=json
+Link : <https://api.github.com/search/repositories?q=tetris+language%3Aassembly&stars=&desc=&page=2>; rel="next", <https://api.github.com/search/repositories?q=tetris+language%3Aassembly&stars=&desc=&page=34>; rel="last"
+Access-Control-Expose-Headers : ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Access-Control-Allow-Origin : *
+Strict-Transport-Security : max-age=31536000; includeSubdomains; preload
+X-Frame-Options : deny
+X-Content-Type-Options : nosniff
+X-XSS-Protection : 1; mode=block
+Referrer-Policy : origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy : default-src 'none'
+Content-Encoding : gzip
+Vary : Accept-Encoding
+X-GitHub-Request-Id : D7EE:52AF:16BCAC:26E188:5D7F0820
+Date : Mon, 16 Sep 2019 04:13:42 GMT
+Content-Type : application/json; charset=utf-8
+Transfer-Encoding : chunked
+Server : GitHub.com
+Status : 200 OK
+X-RateLimit-Limit : 10
+X-RateLimit-Remaining : 9
+X-RateLimit-Reset : 1568607282
+Cache-Control : no-cache
+X-GitHub-Media-Type : github.v3; format=json
+Link : <https://api.github.com/search/repositories?q=tetris+language%3Aassembly&stars=&desc=&page=2>; rel="next", <https://api.github.com/search/repositories?q=tetris+language%3Aassembly&stars=&desc=&page=34>; rel="last"
+Access-Control-Expose-Headers : ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Access-Control-Allow-Origin : *
+Strict-Transport-Security : max-age=31536000; includeSubdomains; preload
+X-Frame-Options : deny
+X-Content-Type-Options : nosniff
+X-XSS-Protection : 1; mode=block
+Referrer-Policy : origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy : default-src 'none'
+Content-Encoding : gzip
+Vary : Accept-Encoding
+X-GitHub-Request-Id : D845:050F:3A0C26:6B8138:5D7F0BF5
